@@ -1,10 +1,14 @@
 {
   "name": "complex-division",
   "version": "1.0.0",
-  "description": "Complex division done the floating point way",
+  "description": "Floating point complex division",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/scijs/complex-division.git"
   },
   "keywords": [
     "complex",

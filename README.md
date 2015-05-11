@@ -1,6 +1,9 @@
 # complex-division
 
-Complex division done the floating point way
+[![Build Status](https://travis-ci.org/scijs/complex-division.svg?branch=master)](https://travis-ci.org/scijs/complex-division) [![npm version](https://badge.fury.io/js/complex-division.svg)](http://badge.fury.io/js/complex-division)  [![Dependency Status](https://david-dm.org/scijs/complex-division.svg)](https://david-dm.org/scijs/complex-division)
+
+
+Floating point complex division
 
 ## Intro
 

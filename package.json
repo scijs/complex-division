@@ -1,0 +1,22 @@
+{
+  "name": "complex-division",
+  "version": "1.0.0",
+  "description": "Complex division done the floating point way",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "complex",
+    "scijs",
+    "division",
+    "math",
+    "floating-point"
+  ],
+  "author": "Ricky Reusser",
+  "license": "MIT",
+  "devDependencies": {
+    "jshint": "^2.7.0",
+    "mocha": "^2.2.4"
+  }
+}

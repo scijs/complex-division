@@ -10,7 +10,7 @@ Complex floating point division isn't quite trivial. The naive method may encoun
 
 ## Usage
 
-##### require('complex-division')( a, b, c, d )
+##### `require('complex-division')( a, b, c, d )`
 
 Calculates (a + ib)/(c + id) and returns a two-element JS array with the real and imaginary components.
 

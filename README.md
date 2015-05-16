@@ -7,7 +7,7 @@ Floating point complex division
 
 ## Intro
 
-Complex floating point division isn't quite trivial. The naive method may encounter overflow, underflow, or loss of precision due to the intermediate floating point results. A simple remedy is[1]:
+Complex floating point division isn't quite trivial. The naive method may encounter overflow, underflow, or loss of precision due to the intermediate floating point results. A simple remedy[[1]](#references) is:
 
 ![Complex division](docs/images/division.png)
 
